@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying BS Computer Science at Kohat University of Science and Technology, Kohat <a href="https://kust.edu.pk">(KUST)</a>.
+- 🎓 &nbsp; Studying BS Computer Science at Kohat University of Science and Technology, Kohat <a href="https://kust.edu.pk" target="blank">(KUST)</a>.
 - 🌱 &nbsp; Learning more about Front End, Back End and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
