@@ -29,6 +29,20 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=fff)
   ![JetBrain](https://img.shields.io/badge/-jetbrains-333333?style=flat&logo=jetbrains&logoColor=fff)
 
+
+<br/>
+
+<a href="https://github.com/sabghat90">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabghat90&theme=buefy&show_icons=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabghat90&theme=buefy&layout=compact" />
+
+</a>
+
+<br/>
+
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
