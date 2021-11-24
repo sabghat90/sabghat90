@@ -50,6 +50,7 @@
 <a href="https://www.linkedin.com/in/sabghat90/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sabghat%20Ullah-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/sabghat90" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Sabghat_Ullah-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:sabghat90@gmail.com" target="blank"><img alt="Email" src="https://img.shields.io/badge/Email-sabghat90@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:CS120192060@kust.edu.pk" target="blank"><img alt="Email" src="https://img.shields.io/badge/Email-CS120192060@kust.edu.pk-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.twitter.com/sabghat900" target="blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sabghat900?color=%23007EC6&label=Sabghat%20Ullah&logo=twitter&style=flat-square"></a>
 <a href="https://facebook.com/sabghat90" target="blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Sabghat_Ullah_Qureshi-blue?style=flat-square&logo=facebook&logoColor=white"></a>
   <a href="https://wa.me/923327370770?text=Hi" target="blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-92_332_7370770-25D366?style=flat-square&logo=whatsapp&logoColor=white"></a>
