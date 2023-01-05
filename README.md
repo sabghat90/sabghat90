@@ -38,7 +38,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabghat90&theme=buefy&show_icons=true" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sabghat90&theme=dark)](https://github.com/sabghat90)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sabghat90&theme=default)](https://github.com/sabghat90)
 
 <br/>
 
