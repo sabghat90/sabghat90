@@ -1,10 +1,11 @@
 
-<h2> Hey there! I'm Sabghat Ullah.</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F71111&center=true&vCenter=true&width=435&lines=Assalam+O+Aalaikom!;Hello!+There+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying BS Computer Science at Kohat University of Science and Technology, Kohat <a href="https://kust.edu.pk" target="_blank">(KUST)</a>.
+- 🎓 &nbsp; Hi, I'm a computer science student at the Kohat University of Science and Technology <a href="https://kust.edu.pk" target="_blank">(KUST)</a> and an aspiring android app developer. 
+- 👨‍💻 &nbsp; I'm proficient in Kotlin and have a strong foundation in software development concepts.
+- 💻 &nbsp; In my free time, I enjoy working on personal projects and contributing to open source projects on GitHub.
 - 🌱 &nbsp; Learning more about Front End, Back End and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -34,12 +35,10 @@
 <br/>
 
 <a href="https://github.com/sabghat90">
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabghat90&theme=buefy&show_icons=true" />
-
-  
-
 </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sabghat90&theme=dark)](https://github.com/sabghat90)
 
 <br/>
 
