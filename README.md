@@ -5,10 +5,19 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🎓 &nbsp; Hi, I'm a computer science student at the Kohat University of Science and Technology <a href="https://kust.edu.pk" target="_blank">(KUST)</a> and an aspiring android app developer. 
-- 👨‍💻 &nbsp; I'm proficient in Kotlin and have a strong foundation in software development concepts.
-- 💻 &nbsp; In my free time, I enjoy working on personal projects and contributing to open source projects on GitHub.
-- 🌱 &nbsp; Learning more about Front End, Back End and Artificial Intelligence.
+- 👨‍💻 &nbsp; **Sabghat Ullah Khan**
+- 🚀 &nbsp;  Dynamic Tech Professional | Innovator | AI/ML Enthusiast
+
+- 🎓 &nbsp;  Computer Science Graduate | Kohat University, Pakistan
+- 💡 &nbsp;  Passionate about Delivering Innovative Solutions
+
+- 🌟 &nbsp;  I am a dynamic and versatile tech professional with a passion for delivering innovative solutions. With a strong academic foundation in computer science, I bring a wealth of technical expertise to the table.
+
+- 📱 &nbsp;  I have extensive experience developing Android apps, specializing in MVVM architecture and dependency injection, to create scalable and high-performance applications. My proficiency in programming languages such as C++, Python, Java, Kotlin, and R Language enables me to craft complex and reliable software solutions.
+
+- 🛡️ &nbsp;  In addition, I possess a deep understanding of networking and information security, allowing me to tackle complex cybersecurity challenges and identify potential threats. My project management skills and proficiency in MS Office further enhance my ability to deliver exceptional results.
+
+- 🤝 &nbsp;  As a committed professional, I thrive on collaboration and continuous learning. If you're in search of a dedicated tech expert with a track record of excellence, let's connect!
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -17,12 +26,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=00599C)
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=00599C)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 
   #### 🗄️ Databases and Cloud Hosting
 
