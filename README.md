@@ -3,7 +3,7 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/sabghat90)
 
-### 👨🏻‍💻 &nbsp;About Me
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 👨‍💻 &nbsp; **Sabghat Ullah Khan**
 - 🚀 &nbsp;  Dynamic Tech Professional | Innovator | AI/ML Enthusiast
@@ -19,16 +19,16 @@
 
 - 🤝 &nbsp;  As a committed professional, I thrive on collaboration and continuous learning. If you're in search of a dedicated tech expert with a track record of excellence, let's connect!
 
-### 🛠 &nbsp;Tech Stack
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-  #### 👨‍💻 Programming and Markup Languages
+  <h3>👨‍💻 Programming and Markup Languages</h3>
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=00599C)
 
-  #### 🗄️ Databases and Cloud Hosting
+  <h3>🗄️ Databases and Cloud Hosting</h3>
 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -36,7 +36,7 @@
   <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
   <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 
-  #### 💻 Software and Tools
+  <h3>💻 Software and Tools</h3>
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=fff)
@@ -68,7 +68,7 @@
 <br/>
 
 
-### 🤝🏻 &nbsp;Connect with Me
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sabghat90/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sabghat%20Ullah-blue?style=flat-square&logo=linkedin"></a>
