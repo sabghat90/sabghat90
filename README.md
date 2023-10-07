@@ -10,14 +10,14 @@
 
 - 🎓 &nbsp;  Computer Science Graduate | Kohat University, Pakistan
 - 💡 &nbsp;  Passionate about Delivering Innovative Solutions
+- 🔬 &nbsp;  Research Interest: AI, ML, Data Science
+- 🚀 &nbsp;   Leading the future of AI with code and research!
+- 💡 &nbsp;   Passionate about exploring the frontiers of artificial intelligence and machine learning.
+- 🔍 &nbsp;   Seeking graduate research opportunities in AI/ML to contribute innovative solutions.
+- 📜 &nbsp;  Certified in Python, Android Development, Data Science, and Excel.
 
-- 🌟 &nbsp;  I am a dynamic and versatile tech professional with a passion for delivering innovative solutions. With a strong academic foundation in computer science, I bring a wealth of technical expertise to the table.
+🌟 Let's collaborate on groundbreaking AI projects! 🌟
 
-- 📱 &nbsp;  I have extensive experience developing Android apps, specializing in MVVM architecture and dependency injection, to create scalable and high-performance applications. My proficiency in programming languages such as C++, Python, Java, Kotlin, and R Language enables me to craft complex and reliable software solutions.
-
-- 🛡️ &nbsp;  In addition, I possess a deep understanding of networking and information security, allowing me to tackle complex cybersecurity challenges and identify potential threats. My project management skills and proficiency in MS Office further enhance my ability to deliver exceptional results.
-
-- 🤝 &nbsp;  As a committed professional, I thrive on collaboration and continuous learning. If you're in search of a dedicated tech expert with a track record of excellence, let's connect!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
