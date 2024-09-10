@@ -1,3 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F71111&center=true&vCenter=true&width=435&lines=Assalam+O+Aalaikom!;Hello!+There+%F0%9F%91%8B)](https://github.com/sabghat90)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/sabghat90)
+
+
 # 💫 About Me:
 MS Computer Science student at Comsats Islamabad<br>Working with Python, Django<br>Research areas are ML and DL
 
@@ -15,9 +20,6 @@ MS Computer Science student at Comsats Islamabad<br>Working with Python, Django<
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sabghat90&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sabghat90&limit=5&theme=default&combine_all_yearly_contributions=true)
 
@@ -26,6 +28,3 @@ MS Computer Science student at Comsats Islamabad<br>Working with Python, Django<
 
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/sabghat90) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
